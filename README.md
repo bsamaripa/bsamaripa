@@ -4,7 +4,7 @@ Hi there, I'm Byron. I'm a Senior Software Engineer based out of Denver, CO. I'm
 
 I currently work remotely for [Xpress Technologies](https://xpresstechfreight.com/) based out of Chattanooga, TN building out their next generation ML product for connecting frieght with drivers. I'm very exited to share the rest of that 
 
-To find out what I'm up to outside of work, chekc out my personal site at [bsamaripa.com](https://www.bsamaripa.com), thanks for stopping by!
+To find out what I'm up to outside of work, check out my personal site at [bsamaripa.com](https://www.bsamaripa.com), thanks for stopping by!
 
 
 # Languages 
