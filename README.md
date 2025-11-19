@@ -2,8 +2,6 @@
 
 Hi there, I'm Byron. I'm a Senior Software Engineer based out of Denver, CO. I'm a big fan of synthesizers, cats, and the occasional code project when I have time. Lately I have been working on producing music and learning how to code audio plugins, more to come on both of those soon. 
 
-I currently work remotely for [Xpress Technologies](https://xpresstechfreight.com/) based out of Chattanooga, TN building out their next generation ML product for connecting frieght with drivers. I'm very exited to share the rest of that 
-
 To find out what I'm up to outside of work, check out my personal site at [bsamaripa.com](https://www.bsamaripa.com), thanks for stopping by!
 
 
